@@ -15,12 +15,6 @@ Test it: pytest tests/test_streamlit.py -k one_package
 """
 
 import streamlit as st
-
-# TODO: import the three functions this app needs from packaging_parser. Put the
-#       import here, under `import streamlit as st`:
-#
-#       from packaging_parser import calc_total_units, get_unit, parse_packaging
-
 from packaging_parser import calc_total_units, get_unit, parse_packaging
 
 # --- The page ---------------------------------------------------------------------
