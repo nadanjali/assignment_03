@@ -1,6 +1,1 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from this assignment (rerun, widget, return value, guard, bytes vs.
-text, decode, session state, initialise once, button-triggered, metric), and make
-it actionable.
+This assignment was very effective in teaching my how to use widgets within Streamlit. I was able to code both text and upload files that were able to decode my inputs and produce product summaries. Additionally, I learned how to convert bytes into text that would be written in the end of my success statements. I am still trying to understand how session states work in order for the Streamlit to keep the memory and history of its recent past actions. I would like to figure out how to code the reset button completely on my own in the future to help make sure I fully get what the session states do.
